@@ -1,0 +1,6 @@
+[{"name":"Nigiri","description":"A topping, usually fish, served on top of sushi rice"}, 
+{"name":"Sashimi","description":"Fish or shellfish served alone (no rice)."},
+{"name":"Maki","description":"Rice and filling wrapped in seaweed"},
+{"name":"Uramaki","description":"Similar to the above, but rice is on the outside and seaweed wraps around the filling."},
+{"name":"Temaki Pepper Chicken","description":"Sushi that has been hand-rolled into a cone shape."}
+]
